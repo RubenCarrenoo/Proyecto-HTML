@@ -9,3 +9,9 @@ comenzamos creando las carpetas y archivos para el funcionamiento del proyecto
 se creao el index.html para inicio del funcionamiento
 
 ![carpetas](IMG/index.png)
+
+# creacion del catalogo
+
+se creo el catalogo.html para seguir con el funcionamiento de la pagina
+
+![carpetas](IMG/catalogo.png)
