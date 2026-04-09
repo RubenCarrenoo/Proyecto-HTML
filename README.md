@@ -40,4 +40,12 @@ se creo el prefil.html listo para seguir en el proceso que funcione la pagina
 
 # creacion del historial.html
 
+creacion del vacio.html para seguir con los htmls
+
 ![carpetas](IMG/historial.png)
+
+# creacion del vacio.html
+
+se creo el vacio.html para la termiancion de creacion de todos los htmls 
+
+![carpetas](IMG/vacio.png)
