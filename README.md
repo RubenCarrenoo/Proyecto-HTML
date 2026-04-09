@@ -25,3 +25,9 @@ se creo el catalogo.html para seguir con el funcionamiento de la pagina
 se creo el carrito.html para continuar con el funcionamiento
 
 ![carpetas](IMG/carrito.png)
+
+# creacion del checkout.html
+
+se creo el checkout.html para seguir modificando para el funcionamiento de la pagina
+
+![carpetas](IMG/checkout.png)
