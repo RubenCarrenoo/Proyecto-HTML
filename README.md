@@ -10,8 +10,12 @@ se creao el index.html para inicio del funcionamiento
 
 ![carpetas](IMG/index.png)
 
-# creacion del catalogo
+# creacion del catalogo.html
 
 se creo el catalogo.html para seguir con el funcionamiento de la pagina
 
 ![carpetas](IMG/catalogo.png)
+
+# creacion del producto.html
+
+![carpetas](IMG/producto.png)
