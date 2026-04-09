@@ -19,3 +19,9 @@ se creo el catalogo.html para seguir con el funcionamiento de la pagina
 # creacion del producto.html
 
 ![carpetas](IMG/producto.png)
+
+# creacion del carrito.html
+
+se creo el carrito.html para continuar con el funcionamiento
+
+![carpetas](IMG/carrito.png)
