@@ -37,3 +37,7 @@ se creo el checkout.html para seguir modificando para el funcionamiento de la pa
 se creo el prefil.html listo para seguir en el proceso que funcione la pagina
 
 ![carpetas](IMG/perfil.png)
+
+# creacion del historial.html
+
+![carpetas](IMG/historial.png)
