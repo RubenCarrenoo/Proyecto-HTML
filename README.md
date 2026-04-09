@@ -31,3 +31,9 @@ se creo el carrito.html para continuar con el funcionamiento
 se creo el checkout.html para seguir modificando para el funcionamiento de la pagina
 
 ![carpetas](IMG/checkout.png)
+
+# creacion del checkout.html
+
+se creo el prefil.html listo para seguir en el proceso que funcione la pagina
+
+![carpetas](IMG/perfil.png)
