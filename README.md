@@ -67,3 +67,9 @@ se creo el layaut.css para el proceso de los css
 se creo los components.css para seguir con el proceso del proyecto
 
 ![carpetas](IMG/components.png)
+
+# creacion de responsive.css
+
+
+
+![carpetas](IMG/responsive.png)
