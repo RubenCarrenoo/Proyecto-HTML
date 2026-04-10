@@ -2,7 +2,20 @@
   display:flex;
   justify-content:space-between;
   padding:1rem;
-  background:white;
+  background:rgba(255,255,255,0.8);
+  backdrop-filter: blur(10px);
+  position:sticky;
+  top:0;
+}
+
+.nav a{
+  text-decoration:none;
+  padding:8px;
+  border-radius:10px;
+}
+
+.nav a:hover{
+  background:#eef1f7;
 }
 
 .footer{
