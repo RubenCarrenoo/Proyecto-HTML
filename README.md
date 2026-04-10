@@ -61,3 +61,9 @@ se creo el base.css para el comienzo de los css
 se creo el layaut.css para el proceso de los css
 
 ![carpetas](IMG/layaut.png)
+
+# creacion de components.css
+
+se creo los components.css para seguir con el proceso del proyecto
+
+![carpetas](IMG/components.png)
