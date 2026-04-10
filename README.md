@@ -49,3 +49,9 @@ creacion del vacio.html para seguir con los htmls
 se creo el vacio.html para la termiancion de creacion de todos los htmls 
 
 ![carpetas](IMG/vacio.png)
+
+# creacion de base.css
+
+se creo el base.css para el comienzo de los css
+
+![carpetas](IMG/basecss.png)
