@@ -1,0 +1,11 @@
+:root {
+  --primary:#6c63ff;
+  --bg:#f5f6fa;
+}
+
+*{margin:0;padding:0;box-sizing:border-box;}
+
+body{
+  font-family:sans-serif;
+  background:var(--bg);
+}
