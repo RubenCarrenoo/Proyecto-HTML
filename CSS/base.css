@@ -1,11 +1,16 @@
-:root {
+:root{
   --primary:#6c63ff;
+  --secondary:#4a90e2;
   --bg:#f5f6fa;
 }
 
-*{margin:0;padding:0;box-sizing:border-box;}
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
 
 body{
   font-family:sans-serif;
-  background:var(--bg);
+  background:linear-gradient(180deg,#f5f6fa,#e9ecf5);
 }
