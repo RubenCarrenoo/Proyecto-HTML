@@ -55,3 +55,9 @@ se creo el vacio.html para la termiancion de creacion de todos los htmls
 se creo el base.css para el comienzo de los css
 
 ![carpetas](IMG/basecss.png)
+
+# creacion layout.css
+
+se creo el layaut.css para el proceso de los css
+
+![carpetas](IMG/layaut.png)
